@@ -1,5 +1,9 @@
 # Orchestrator Arena
 
+<p align="center">
+  <img src="readme_images/readme_image_1_landing.png" alt="Orchestrator Arena" width="600">
+</p>
+
 ![Made with Claude Code](https://img.shields.io/badge/Made%20with-Claude%20Code-orange?style=flat-square&logo=anthropic)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
